@@ -2,7 +2,7 @@ import { DndContext, closestCenter, PointerSensor, useSensor, useSensors } from 
 import { SortableContext, verticalListSortingStrategy, arrayMove } from '@dnd-kit/sortable';
 import { Table, TableBody, TableContainer, TableHead, TableRow, TableCell, Paper } from '@mui/material';
 import SortableRow from './SortableRow'
-import { ImageRow } from '@/types';
+import { ImageRow } from '../types'
 
 interface Props {
   rows: ImageRow[];
