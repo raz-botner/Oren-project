@@ -2,7 +2,7 @@
   "name": "Photo Labeler OCR",
   "short_name": "PhotoLabeler",
   "description": "Smart OCR renaming tool for industrial stickers",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1976d2",
